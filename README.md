@@ -1,2 +1,2 @@
-# c-
+# c++
 Shipping program
